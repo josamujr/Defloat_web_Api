@@ -9,4 +9,4 @@ jobs:
       - name: pulling git repo
         uses: action/checkout@v2
       - name: say hello to my lover
-      - run: echo " staff ija yayamba kutheka"
+        run: echo " staff ija yayamba kutheka"
